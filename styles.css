@@ -1,0 +1,118 @@
+.logo1{
+    position: absolute;left: 125pt;
+    width: 125pt;
+    cursor: pointer;
+}
+.bars{
+    position: absolute;left: 95pt;
+    position: absolute;top: 12pt;
+    width: 30pt;
+    cursor: pointer;
+}
+head{
+    background-color: white;
+    width: 100%;
+}
+body{
+    background-color: rgb(241, 242, 243);
+}
+.header{
+    background-color: white;
+    height: 30pt;
+    padding: 5pt;
+    border-top: orange 2pt solid;
+}
+.topbar, .body{
+    margin: 0;
+    padding: 0;
+}
+.About{
+    position: absolute;left: 260pt;
+    font-size: 10pt;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif
+}
+.Products{
+    font-size: 10pt;
+    position: absolute;left: 309pt;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif
+}
+.Teams{
+    font-size: 10pt;
+    position: absolute;left: 370pt;
+    cursor: pointer;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif
+}
+.rest{
+    position: absolute;left: 420pt;
+    position: absolute;top: 10pt;
+    width: 600pt;
+    cursor: pointer;
+}
+.search{
+    position: absolute;left: 450pt;
+    position: absolute;top: 16pt;
+    width: 450pt;
+    border-style: none;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+}
+.logo{
+    position: absolute;top:  82pt;
+    position: absolute;left: 540pt;
+    width: 35pt;
+}
+.options{
+    cursor: pointer;
+    position: absolute;left: 450pt;
+    position: absolute;top: 125pt;
+    width: 210pt;
+}
+a:link {
+    color: brown;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: blue;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+          color: rgb(137, 213, 255);}
+.newacc{
+    position: absolute;left: 490pt;
+    position: absolute;top: 430pt;
+    font-size: 10pt;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+}
+.employer{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 10pt;
+    position: absolute;left: 470pt;
+    position: absolute;top: 455pt;
+}
+.forgor{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI Adjusted", "Segoe UI", "Liberation Sans", sans-serif;
+    font-size: 9pt;
+    position: absolute;left: 575pt;
+    position: absolute;top: 300pt;
+}
+.loginbox{
+    position: absolute;left: 438pt;
+    position: absolute;top: 225pt;
+    width: 230pt;
+}
+.email{
+    position: absolute;left: 475pt;
+    position: absolute;top: 275pt;
+    width: 155pt;
+    border-style: none;
+}
+.password{
+    position: absolute;left: 475pt;
+    position: absolute;top: 330pt;
+    width: 155pt;
+    border-style: none;
+}
